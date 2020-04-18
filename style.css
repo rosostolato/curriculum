@@ -1,0 +1,28 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #F9F9F9;
+  color: #555;
+}
+
+header {
+  background-color: #dddddd;
+  height: 200px;
+}
+
+.icon {
+  margin: 5px;
+  width: 16px;
+  height: 16px;
+}
+
+.icon.email {
+  background-image: url('assets/email.svg');
+}
+
+.icon.google {
+  background-image: url('assets/google.svg');
+}
+
+.icon.github {
+  background-image: url('assets/github.svg');
+}
