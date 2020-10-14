@@ -9,6 +9,10 @@ header {
   height: 200px;
 }
 
+.badge {
+  font-weight: 500;
+}
+
 .icon {
   margin: 5px;
   width: 16px;
