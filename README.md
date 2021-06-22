@@ -1,2 +1,3 @@
 # curriculum
-Meu curriculo pessoal
+
+https://rosostolato.github.io/curriculum/
